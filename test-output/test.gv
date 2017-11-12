@@ -1,0 +1,9 @@
+// Crawford Purchase
+digraph {
+	A [label=Crawford]
+	B [label=America]
+	C [label="sir bedevere"]
+	A -> B
+	A -> C
+	B -> A
+}

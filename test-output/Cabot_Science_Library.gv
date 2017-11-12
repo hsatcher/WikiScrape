@@ -1,0 +1,308 @@
+// Cabot Science Library
+digraph {
+	0 [label="Cabot Science Library"]
+	1 [label="Academic regalia of Harvard University"]
+	0 -> 1
+	2 [label="Adams House (Harvard College)"]
+	0 -> 2
+	3 [label="Alan Garber"]
+	0 -> 3
+	4 [label="Arthur M. Sackler"]
+	0 -> 4
+	5 [label="Baker Library/Bloomberg Center"]
+	0 -> 5
+	6 [label="Beanpot (ice hockey)"]
+	0 -> 6
+	7 [label="Berkman Klein Center for Internet & Society"]
+	0 -> 7
+	8 [label="Boylston Hall"]
+	0 -> 8
+	9 [label="Bright-Landry Hockey Center"]
+	0 -> 9
+	10 [label="Broad Institute"]
+	0 -> 10
+	12 [label="Harvard Art Museums"]
+	0 -> 12
+	13 [label="Cabot House"]
+	0 -> 13
+	14 [label="Carpenter Center for the Visual Arts"]
+	0 -> 14
+	15 [label="Center for Hellenic Studies"]
+	0 -> 15
+	16 [label="History of medicine"]
+	0 -> 16
+	17 [label="Warren, Michigan"]
+	0 -> 17
+	18 [label="Harvard Collection of Historical Scientific Instruments"]
+	0 -> 18
+	19 [label="CornellHarvard hockey rivalry"]
+	0 -> 19
+	21 [label="Currier House (Harvard College)"]
+	0 -> 21
+	22 [label="David N. Hempton"]
+	0 -> 22
+	23 [label="Douglas Elmendorf"]
+	0 -> 23
+	24 [label="Drew Gilpin Faust"]
+	0 -> 24
+	25 [label="Currier House (Harvard College)"]
+	0 -> 25
+	26 [label="Dumbarton Oaks"]
+	0 -> 26
+	27 [label="Dunster House"]
+	0 -> 27
+	28 [label="Eleanor Elkins Widener"]
+	0 -> 28
+	29 [label="Eliot House (Harvard College)"]
+	0 -> 29
+	30 [label="Harvard Art Museums"]
+	0 -> 30
+	31 [label="Francis J. Doyle III"]
+	0 -> 31
+	32 [label="General Artemas Ward House"]
+	0 -> 32
+	33 [label="Geographic coordinate system"]
+	0 -> 33
+	34 [label="Glass Flowers"]
+	0 -> 34
+	35 [label="Grossman Library"]
+	0 -> 35
+	36 [label="Harry Elkins Widener"]
+	0 -> 36
+	37 [label="Harvard Art Museums"]
+	0 -> 37
+	38 [label="Harvard Board of Overseers"]
+	0 -> 38
+	39 [label="Harvard Business Publishing"]
+	0 -> 39
+	40 [label="Harvard Business Publishing"]
+	0 -> 40
+	41 [label="Harvard Business Review"]
+	0 -> 41
+	42 [label="Harvard Business School"]
+	0 -> 42
+	43 [label="African-American Civil Rights Movement (19541968)"]
+	0 -> 43
+	44 [label="Harvard Collection of Historical Scientific Instruments"]
+	0 -> 44
+	45 [label="Harvard College"]
+	0 -> 45
+	46 [label="Harvard Crimson"]
+	0 -> 46
+	47 [label="Harvard Design Magazine"]
+	0 -> 47
+	48 [label="Harvard Divinity School"]
+	0 -> 48
+	49 [label="Harvard Division of Continuing Education"]
+	0 -> 49
+	50 [label="Harvard Extension School"]
+	0 -> 50
+	51 [label="Harvard Faculty of Arts and Sciences"]
+	0 -> 51
+	52 [label="Harvard Forest"]
+	0 -> 52
+	53 [label="Harvard Gazette"]
+	0 -> 53
+	54 [label="Harvard Graduate Center"]
+	0 -> 54
+	55 [label="Harvard Graduate School of Arts and Sciences"]
+	0 -> 55
+	56 [label="Harvard Graduate School of Design"]
+	0 -> 56
+	57 [label="Harvard Graduate School of Education"]
+	0 -> 57
+	58 [label="Harvard Hall"]
+	0 -> 58
+	59 [label="Harvard Institute of Politics"]
+	0 -> 59
+	60 [label="Harvard International Law Journal"]
+	0 -> 60
+	61 [label="Harvard John A. Paulson School of Engineering and Applied Sciences"]
+	0 -> 61
+	62 [label="Harvard Journal of Law & Technology"]
+	0 -> 62
+	63 [label="Harvard Journal on Legislation"]
+	0 -> 63
+	64 [label="Harvard Law Record"]
+	0 -> 64
+	65 [label="Harvard Law Review"]
+	0 -> 65
+	66 [label="Harvard Law School"]
+	0 -> 66
+	67 [label="Harvard Library"]
+	0 -> 67
+	68 [label="Harvard Magazine"]
+	0 -> 68
+	69 [label="Harvard Medical School"]
+	0 -> 69
+	70 [label="Harvard Mineralogical Museum"]
+	0 -> 70
+	71 [label="Harvard Museum of Natural History"]
+	0 -> 71
+	72 [label="Harvard Review"]
+	0 -> 72
+	73 [label="Harvard School of Dental Medicine"]
+	0 -> 73
+	74 [label="Harvard Science Center"]
+	0 -> 74
+	75 [label="Harvard Society of Fellows"]
+	0 -> 75
+	76 [label="Harvard Stadium"]
+	0 -> 76
+	77 [label="Harvard Summer School"]
+	0 -> 77
+	78 [label="Harvard T.H. Chan School of Public Health"]
+	0 -> 78
+	79 [label="Harvard Tercentenary celebration"]
+	0 -> 79
+	80 [label="Harvard Ukrainian Research Institute"]
+	0 -> 80
+	81 [label="Harvard University"]
+	0 -> 81
+	82 [label="Harvard University Choir"]
+	0 -> 82
+	83 [label="Harvard University Herbaria"]
+	0 -> 83
+	84 [label="Harvard University Press"]
+	0 -> 84
+	85 [label="Harvard University Professor"]
+	0 -> 85
+	86 [label="Harvard Yard"]
+	0 -> 86
+	87 [label="HarvardMIT Program of Health Sciences and Technology"]
+	0 -> 87
+	88 [label="HarvardSmithsonian Center for Astrophysics"]
+	0 -> 88
+	89 [label="HarvardYale football rivalry"]
+	0 -> 89
+	90 [label="HarvardYenching Library"]
+	0 -> 90
+	91 [label="Heraldry of Harvard University"]
+	0 -> 91
+	92 [label="History and traditions of Harvard commencements"]
+	0 -> 92
+	93 [label="History of Harvard Extension School"]
+	0 -> 93
+	94 [label="History of Harvard University"]
+	0 -> 94
+	95 [label="Houghton Library"]
+	0 -> 95
+	96 [label="Huntington D. Lambert"]
+	0 -> 96
+	97 [label="Institute for Advanced Theater Training"]
+	0 -> 97
+	98 [label="Quantitative research"]
+	0 -> 98
+	99 [label="Ivy League"]
+	0 -> 99
+	100 [label="Jeffrey Scott Flier"]
+	0 -> 100
+	101 [label="John F. Kennedy School of Government"]
+	0 -> 101
+	102 [label="John Harvard (clergyman)"]
+	0 -> 102
+	103 [label="John Harvard (statue)"]
+	0 -> 103
+	104 [label="Johnston Gate"]
+	0 -> 104
+	105 [label="Joint Center for Housing Studies"]
+	0 -> 105
+	106 [label="Kirkland House"]
+	0 -> 106
+	107 [label="Lamont Library"]
+	0 -> 107
+	108 [label="Lavietes Pavilion"]
+	0 -> 108
+	109 [label="Leverett House"]
+	0 -> 109
+	110 [label="List of Harvard College freshman dormitories"]
+	0 -> 110
+	111 [label="List of Harvard College undergraduate organizations"]
+	0 -> 111
+	112 [label="Lowell House"]
+	0 -> 112
+	113 [label="Lyman Laboratory of Physics"]
+	0 -> 113
+	114 [label="Martha Minow"]
+	0 -> 114
+	115 [label="Massachusetts Hall (Harvard University)"]
+	0 -> 115
+	116 [label="Mather House (Harvard College)"]
+	0 -> 116
+	117 [label="Memorial Church of Harvard University"]
+	0 -> 117
+	118 [label="Memorial Hall (Harvard University)"]
+	0 -> 118
+	119 [label="Michael D. Smith (computer scientist)"]
+	0 -> 119
+	120 [label="Michelle Ann Williams"]
+	0 -> 120
+	121 [label="Mohsen Mostafavi"]
+	0 -> 121
+	122 [label="Museum of Comparative Zoology"]
+	0 -> 122
+	123 [label="Newell Boathouse"]
+	0 -> 123
+	124 [label="Nieman Foundation for Journalism"]
+	0 -> 124
+	125 [label="Nitin Nohria"]
+	0 -> 125
+	126 [label="Peabody Museum of Archaeology and Ethnology"]
+	0 -> 126
+	127 [label="Peabody Terrace"]
+	0 -> 127
+	128 [label="Pforzheimer House"]
+	0 -> 128
+	129 [label="President and Fellows of Harvard College"]
+	0 -> 129
+	130 [label="President of Harvard University"]
+	0 -> 130
+	131 [label="Edward Bouverie Pusey"]
+	0 -> 131
+	132 [label="Quincy House (Harvard College)"]
+	0 -> 132
+	133 [label="Radcliffe College"]
+	0 -> 133
+	134 [label="Radcliffe Institute for Advanced Study"]
+	0 -> 134
+	135 [label="Rakesh Khurana"]
+	0 -> 135
+	136 [label="Real Colegio Complutense"]
+	0 -> 136
+	137 [label="Rowland Institute for Science"]
+	0 -> 137
+	139 [label="Schlesinger Library"]
+	0 -> 139
+	140 [label="Semitic Museum"]
+	0 -> 140
+	141 [label="Smith Campus Center"]
+	0 -> 141
+	142 [label="Spangler Center"]
+	0 -> 142
+	143 [label="The Harvard Advocate"]
+	0 -> 143
+	144 [label="The Harvard Crimson"]
+	0 -> 144
+	145 [label="The Harvard Independent"]
+	0 -> 145
+	146 [label="The Harvard Lampoon"]
+	0 -> 146
+	147 [label="Memorial Hall (Harvard University)"]
+	0 -> 147
+	148 [label="Villa I Tatti"]
+	0 -> 148
+	149 [label="W. E. B. Du Bois"]
+	0 -> 149
+	150 [label="Warren Anatomical Museum"]
+	0 -> 150
+	151 [label="Weld Boathouse"]
+	0 -> 151
+	152 [label="Widener Library"]
+	0 -> 152
+	153 [label="Winthrop House"]
+	0 -> 153
+	154 [label="Wyss Institute for Biologically Inspired Engineering"]
+	0 -> 154
+	155 [label="Xiao-Li Meng"]
+	0 -> 155
+}

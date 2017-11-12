@@ -1,0 +1,190 @@
+// derek bok
+digraph {
+	0 [label="derek bok"]
+	1 [label="Abbott Lawrence Lowell"]
+	0 -> 1
+	2 [label="Alma mater"]
+	0 -> 2
+	3 [label="Alva Myrdal"]
+	0 -> 3
+	4 [label="Archibald Cox"]
+	0 -> 4
+	5 [label="Bachelor of Arts"]
+	0 -> 5
+	6 [label="Benjamin Wadsworth"]
+	0 -> 6
+	7 [label="Bibliothque nationale de France"]
+	0 -> 7
+	8 [label="Bryn Mawr, Pennsylvania"]
+	0 -> 8
+	9 [label="C-SPAN"]
+	0 -> 9
+	10 [label="Charles Chauncy"]
+	0 -> 10
+	11 [label="Charles William Eliot"]
+	0 -> 11
+	12 [label="Charlie Rose (TV series)"]
+	0 -> 12
+	13 [label="Cornelius Conway Felton"]
+	0 -> 13
+	14 [label="Curtis Bok"]
+	0 -> 14
+	15 [label="Curtis Institute of Music"]
+	0 -> 15
+	16 [label="Curtis Publishing Company"]
+	0 -> 16
+	17 [label="Cyrus H. K. Curtis"]
+	0 -> 17
+	18 [label="Dean of Harvard Law School"]
+	0 -> 18
+	19 [label="Derek Bok Public Service Prizes"]
+	0 -> 19
+	20 [label="Drew Gilpin Faust"]
+	0 -> 20
+	21 [label="Drew Gilpin Faust"]
+	0 -> 21
+	22 [label="Edward Everett"]
+	0 -> 22
+	23 [label="Edward Holyoke"]
+	0 -> 23
+	24 [label="Edward Bok"]
+	0 -> 24
+	25 [label="Eliphalet Pearson"]
+	0 -> 25
+	26 [label="Erwin Griswold"]
+	0 -> 26
+	27 [label=WordPress]
+	0 -> 27
+	28 [label="George Washington University"]
+	0 -> 28
+	29 [label="Google Books"]
+	0 -> 29
+	30 [label="Gordon Bok"]
+	0 -> 30
+	31 [label="Grawemeyer Award"]
+	0 -> 31
+	32 [label="Gunnar Myrdal"]
+	0 -> 32
+	33 [label="Harvard University"]
+	0 -> 33
+	34 [label="Harvard Extension School"]
+	0 -> 34
+	35 [label="Harvard Graduate School of Education"]
+	0 -> 35
+	36 [label="Harvard Law School"]
+	0 -> 36
+	37 [label="Harvard University"]
+	0 -> 37
+	38 [label="Harvard University Press"]
+	0 -> 38
+	39 [label="Hauser Center for Nonprofit Organizations"]
+	0 -> 39
+	40 [label="Henry Dunster"]
+	0 -> 40
+	41 [label="Hilary Bok"]
+	0 -> 41
+	42 [label="Sciences Po"]
+	0 -> 42
+	43 [label="Increase Mather"]
+	0 -> 43
+	44 [label="Institute for Advanced Technology in the Humanities"]
+	0 -> 44
+	45 [label="Integrated Authority File"]
+	0 -> 45
+	46 [label="International Standard Book Number"]
+	0 -> 46
+	47 [label="International Standard Name Identifier"]
+	0 -> 47
+	48 [label="James Bryant Conant"]
+	0 -> 48
+	49 [label="James Walker (Harvard)"]
+	0 -> 49
+	50 [label="Jared Sparks"]
+	0 -> 50
+	51 [label="John Leverett the Younger"]
+	0 -> 51
+	52 [label="John Rogers (Harvard)"]
+	0 -> 52
+	53 [label="John Thornton Kirkland"]
+	0 -> 53
+	54 [label="John Winthrop"]
+	0 -> 54
+	55 [label="Johns Hopkins University"]
+	0 -> 55
+	56 [label="Joseph Nye"]
+	0 -> 56
+	57 [label="Joseph Willard"]
+	0 -> 57
+	58 [label="Josiah Quincy III"]
+	0 -> 58
+	59 [label="Juris Doctor"]
+	0 -> 59
+	60 [label="John F. Kennedy School of Government"]
+	0 -> 60
+	61 [label="Ladies' Home Journal"]
+	0 -> 61
+	62 [label="Lawrence Summers"]
+	0 -> 62
+	63 [label="Lawrence Summers"]
+	0 -> 63
+	64 [label=Lawyer]
+	0 -> 64
+	65 [label="Leonard Hoar"]
+	0 -> 65
+	66 [label="Library of Congress Control Number"]
+	0 -> 66
+	67 [label="Mary Louise Curtis Bok Zimbalist"]
+	0 -> 67
+	68 [label="Matina Horner"]
+	0 -> 68
+	69 [label="Miquon, Pennsylvania"]
+	0 -> 69
+	70 [label="Nathan M. Pusey"]
+	0 -> 70
+	71 [label="Nathaniel Eaton"]
+	0 -> 71
+	72 [label="Neil L. Rudenstine"]
+	0 -> 72
+	73 [label="Neil L. Rudenstine"]
+	0 -> 73
+	74 [label="President of Harvard University"]
+	0 -> 74
+	75 [label="Princeton University"]
+	0 -> 75
+	76 [label="Princeton University Press"]
+	0 -> 76
+	77 [label="Radcliffe College"]
+	0 -> 77
+	78 [label="Samuel Langdon"]
+	0 -> 78
+	79 [label="Samuel Locke"]
+	0 -> 79
+	80 [label="Samuel Webber"]
+	0 -> 80
+	81 [label="Samuel Willard"]
+	0 -> 81
+	82 [label="Sissela Bok"]
+	0 -> 82
+	83 [label="Stanford University"]
+	0 -> 83
+	84 [label="Systme universitaire de documentation"]
+	0 -> 84
+	85 [label="The Miquon School"]
+	0 -> 85
+	86 [label="The Saturday Evening Post"]
+	0 -> 86
+	87 [label="Thomas Hill (clergyman)"]
+	0 -> 87
+	88 [label="UCLA Lab School"]
+	0 -> 88
+	89 [label="United States"]
+	0 -> 89
+	90 [label="University of Louisville"]
+	0 -> 90
+	91 [label="Urian Oakes"]
+	0 -> 91
+	92 [label="Virtual International Authority File"]
+	0 -> 92
+	93 [label="William G. Bowen"]
+	0 -> 93
+}
